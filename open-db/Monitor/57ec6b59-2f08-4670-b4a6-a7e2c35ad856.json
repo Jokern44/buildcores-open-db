@@ -1,0 +1,36 @@
+{
+  "opendb_id": "PASTE-NEW-UUID-HERE",
+  "resolution": {
+    "horizontalRes": 3840,
+    "verticalRes": 2160
+  },
+  "metadata": {
+    "name": "LG OLED42C3 42\" 4K 120Hz OLED TV",
+    "manufacturer": "LG",
+    "part_numbers": [
+      "OLED42C3PUA",
+      "OLED42C3"
+    ],
+    "series": "C3",
+    "variant": "Black",
+    "model": "OLED42C3"
+  },
+  "screen_size": 42,
+  "refresh_rate": 120,
+  "panel_type": "OLED",
+  "response_time": 0.1,
+  "color": [
+    "BLACK"
+  ],
+  "viewing_angle": "178° H x 178° V",
+  "aspect_ratio": "16:9",
+  "connectors": "4 x HDMI 2.1  3 x USB",
+  "max_brightness": "800 cd/m²",
+  "hdr": "HDR10, Dolby Vision, HLG",
+  "adaptive_sync": "FreeSync Premium, G-Sync Compatible",
+  "general_product_information": {
+    "amazon_sku": "",
+    "newegg_sku": "",
+    "walmart_sku": ""
+  }
+}
